@@ -1,2 +1,0 @@
-# pizza
-GitHub Tutorial
